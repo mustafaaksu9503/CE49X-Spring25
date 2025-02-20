@@ -19,7 +19,7 @@ def main():
     print("Traffic Data Analysis:")
     print(f"Minimum vehicle count: {min_value}")
     print(f"Maximum vehicle count: {max_value}")
-    print(f"Mean vehicle count: {mean_value:.2f}")
+    print(f"Mean vehicle count: {mean_value:.1f}")
 
 if __name__ == '__main__':
     main()
