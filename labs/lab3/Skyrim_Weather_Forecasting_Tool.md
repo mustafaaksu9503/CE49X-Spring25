@@ -1,0 +1,3 @@
+# Skyrim Weather Forecasting Tool
+
+Skyrim is a really cool project that lets you run advanced weather models like Graphcast, Pangu, and Fourcastnet using data from NOAA GFS and ECMWF IFS. It’s awesome because you can generate detailed weather forecasts on your regular computer without needing a supercomputer. I think this tool could be super helpful in civil and environmental engineering projects since having accurate weather data is key for designing buildings and roads that can handle extreme weather, planning construction projects to avoid bad weather delays, and even setting up better flood defenses. Overall, Skyrim makes it easier for students and engineers to use state-of-the-art weather models in their projects.
